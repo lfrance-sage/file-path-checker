@@ -45,7 +45,7 @@ foreach ($file in $FilePaths) {
     }
 }
 
-Write-Host ""
+
 Write-Host "Total files checked: $($FilePaths.Count)" -ForegroundColor Yellow
 Write-Host "Total valid files: $($ValidFilePaths.Count)" -ForegroundColor Green
 Write-Host "Total invalid files: $($InvalidFilePaths.Count)" -ForegroundColor Red
