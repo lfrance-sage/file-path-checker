@@ -1,5 +1,5 @@
 # file-path-checker powershell script
-<#
+
   .SYNOPSIS
     File path checker
   .DESCRIPTION
@@ -15,4 +15,4 @@
     Total valid files: 1
     Total invalid files: 1
     Some files do not exist
-#>
+
